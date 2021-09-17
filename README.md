@@ -6,7 +6,7 @@ As part of a nanodegree at Udacity, this project builds on different methods to 
 ## Notebook content summary
 In the notebook I explore different methods one could use for recommendations systems such as:
 * Rank-based recommendations
-* Collaborating filtering recommendations
+* Collaborative filtering recommendations
 * Recommendations using SVD
 
 ## how to use it
